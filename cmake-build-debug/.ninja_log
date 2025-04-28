@@ -1,0 +1,8 @@
+# ninja log v6
+2	303	7675369575953916	CMakeFiles/codingTestByC__.dir/main.cpp.obj	d5a5cef280d3a64d
+8	311	7675369576013943	CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj	ce0fc0dceef80127
+4	298	7675369698012214	CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj	ce0fc0dceef80127
+4	288	7675370236998359	CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj	ce0fc0dceef80127
+289	398	7675370239843942	codingTestByC__.exe	d349af78ebddb3cd
+4	281	7675377270016483	CMakeFiles/codingTestByC__.dir/main.cpp.obj	d5a5cef280d3a64d
+9	291	7675377270066481	CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj	ce0fc0dceef80127
