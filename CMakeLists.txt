@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(codingTestByC__ main.cpp
         until_2025_04_30/Josephus.cpp
-        until_2025_04_30/Josephus.h)
+        until_2025_04_30/open_chat.cpp)

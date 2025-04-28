@@ -2,7 +2,6 @@
 // Created by yhj00 on 25. 4. 28.
 //
 
-#include "Josephus.h"
 #include <iostream>
 #include <vector>
 
