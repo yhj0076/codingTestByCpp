@@ -67,6 +67,12 @@ build CMakeFiles/codingTestByC__.dir/until_2025_04_30/open_chat.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\codingTestByC__.dir
   OBJECT_FILE_DIR = CMakeFiles\codingTestByC__.dir\until_2025_04_30
 
+build CMakeFiles/codingTestByC__.dir/until_2025_05_07/bw_chef.cpp.obj: CXX_COMPILER__codingTestByC___unscanned_Debug C$:/Users/yhj00/CLionProjects/codingTestByC++/until_2025_05_07/bw_chef.cpp || cmake_object_order_depends_target_codingTestByC__
+  DEP_FILE = CMakeFiles\codingTestByC__.dir\until_2025_05_07\bw_chef.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\codingTestByC__.dir
+  OBJECT_FILE_DIR = CMakeFiles\codingTestByC__.dir\until_2025_05_07
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target codingTestByC__
@@ -75,7 +81,7 @@ build CMakeFiles/codingTestByC__.dir/until_2025_04_30/open_chat.cpp.obj: CXX_COM
 #############################################
 # Link the executable codingTestByC__.exe
 
-build codingTestByC__.exe: CXX_EXECUTABLE_LINKER__codingTestByC___Debug CMakeFiles/codingTestByC__.dir/main.cpp.obj CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj CMakeFiles/codingTestByC__.dir/until_2025_04_30/open_chat.cpp.obj
+build codingTestByC__.exe: CXX_EXECUTABLE_LINKER__codingTestByC___Debug CMakeFiles/codingTestByC__.dir/main.cpp.obj CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj CMakeFiles/codingTestByC__.dir/until_2025_04_30/open_chat.cpp.obj CMakeFiles/codingTestByC__.dir/until_2025_05_07/bw_chef.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\codingTestByC__.dir

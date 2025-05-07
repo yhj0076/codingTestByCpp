@@ -14,7 +14,9 @@ vector<string> solution(vector<string> record) {
     vector<string> answer;
 
     unordered_map<string, string> dict;
+    // [id, nickname]
     vector<pair<string, string>> action_order;
+    // [action, id]
     for (int i = 0; i < record.size(); i++) {
         string input;
         input = record[i];
