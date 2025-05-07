@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/yhj00/CLionProjects/codingTestByC++/cmake-build-debug"
+			"value" : "c:/Users/yhj00/CLionProjects/codingTestByCpp/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yhj00/CLionProjects/codingTestByC++/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -663,7 +663,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/yhj00/CLionProjects/codingTestByC++"
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "codingTestByC__"
+			"value" : "codingTestByCpp"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yhj00/CLionProjects/codingTestByC++/cmake-build-debug"
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/cmake-build-debug"
 		},
 		{
 			"name" : "codingTestByC___IS_TOP_LEVEL",
@@ -1355,7 +1355,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yhj00/CLionProjects/codingTestByC++"
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp"
+		},
+		{
+			"name" : "codingTestByCpp_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/cmake-build-debug"
+		},
+		{
+			"name" : "codingTestByCpp_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "codingTestByCpp_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/yhj00/CLionProjects/codingTestByCpp"
 		}
 	],
 	"kind" : "cache",

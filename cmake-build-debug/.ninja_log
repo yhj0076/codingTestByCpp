@@ -1,4 +1,4 @@
 # ninja log v6
-4	281	7675377270016483	CMakeFiles/codingTestByC__.dir/main.cpp.obj	d5a5cef280d3a64d
-9	291	7675377270066481	CMakeFiles/codingTestByC__.dir/until_2025_04_30/Josephus.cpp.obj	ce0fc0dceef80127
-289	398	7675370239843942	codingTestByC__.exe	d349af78ebddb3cd
+16	349	7683115276050978	CMakeFiles/codingTestByCpp.dir/until_2025_05_07/bw_chef.cpp.obj	469e886e67a4807b
+6	370	7683115275958100	CMakeFiles/codingTestByCpp.dir/until_2025_04_30/Josephus.cpp.obj	2fa4d828b09ad41a
+12	551	7683115276008096	CMakeFiles/codingTestByCpp.dir/until_2025_04_30/open_chat.cpp.obj	60d6d233ecae2fa1
