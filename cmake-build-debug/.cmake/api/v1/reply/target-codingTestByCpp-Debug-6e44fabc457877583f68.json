@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/codingTestByCpp.exe"
+			"path" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/bin/codingTestByCpp.exe"
 		},
 		{
-			"path" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/codingTestByCpp.pdb"
+			"path" : "C:/Users/yhj00/CLionProjects/codingTestByCpp/bin/codingTestByCpp.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -54,7 +54,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -93,7 +95,9 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -115,6 +119,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "until_2025_05_07/bw_chef.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "until_2025_05_07/substring_word.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "until_2025_05_07/bw_chef2.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
