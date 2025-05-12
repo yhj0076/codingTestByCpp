@@ -9,4 +9,8 @@ add_executable(codingTestByCpp
         until_2025_04_30/open_chat.cpp
         until_2025_05_07/bw_chef.cpp
         until_2025_05_07/substring_word.cpp
-        until_2025_05_07/bw_chef2.cpp)
+        until_2025_05_07/bw_chef2.cpp
+        expert/until_2025_05_13/RooftopGarden2.cpp
+        until_2025_05_14/Fibonacci.cpp
+        until_2025_05_14/longest_increasing_subsequence.cpp
+        until_2025_05_14/fibonacciGPT.cpp)
